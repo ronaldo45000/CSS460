@@ -1,0 +1,40 @@
+body {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+    font:
+      0.9em/1.2 Arial,
+      Helvetica,
+      sans-serif;
+    position: relative;
+    top: 150px;
+  }
+  
+.box {
+    width: 420px;
+    height: 220px;
+    border-radius: 5px;
+    background-color: rgb(80, 185, 106);
+    padding: 1em;
+    position: relative;
+    top: -50px;
+    left: 30px;
+    border: solid ;
+  }
+
+  h2{
+    position: relative;
+    top: -30px;
+    left: -10px;
+  }
+
+  #img{
+    position: relative;
+    top: -50px;
+    left: 200px;
+  }
+
+  #text{
+    position: relative;
+    top: -230px;
+  }
